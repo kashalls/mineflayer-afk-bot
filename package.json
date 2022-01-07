@@ -9,7 +9,7 @@
     "ws": "^7.4.0"
   },
   "devDependencies": {
-    "eslint": "^7.12.1",
+    "eslint": "7.17.0",
     "eslint-config-kashall": "Kashalls/kashall-lint"
   },
   "name": "@kashalls/minecraftafkbot",
